@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<FlowPane alignment="CENTER" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox alignment="CENTER" prefHeight="323.0" prefWidth="383.0" style="-fx-background-color: #f0f0f0; -fx-padding: 20px; -fx-border-radius: 30px; -fx-background-radius: 30px;">
+         <children>
+            <HBox minHeight="-Infinity" minWidth="-Infinity" prefHeight="60.0" prefWidth="343.0" style="-fx-alignment: center;">
+               <children>
+                  <Label text="Notizone">
+                     <font>
+                        <Font size="28.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <VBox style="-fx-background-color: #ffffff; -fx-padding: 20px; -fx-border-radius: 30px; -fx-background-radius: 30px;">
+               <children>
+                  <HBox prefHeight="100.0" prefWidth="200.0" style="-fx-alignment: center; -fx-padding: 10px;">
+                     <children>
+                        <Label style="-fx-font-size: 20px; -fx-font-weight: bold;" text="Inicio de sesión" />
+                     </children>
+                  </HBox>
+                  <HBox prefHeight="100.0" style="-fx-spacing: 20px; -fx-alignment: CENTER; -fx-padding: 10px;">
+                     <children>
+                        <TextField promptText="usuario" />
+                     </children>
+                  </HBox>
+                  <HBox prefHeight="100.0" style="-fx-spacing: 20px; -fx-alignment: CENTER; -fx-padding: 10px;">
+                     <children>
+                        <PasswordField promptText="contraseña" />
+                     </children>
+                  </HBox>
+                  <HBox minHeight="-Infinity" minWidth="-Infinity" prefHeight="60.0" prefWidth="200.0" style="-fx-alignment: center; margin-top: 20px;">
+                     <children>
+                        <Button minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-font-size: 16px; -fx-border-radius: 10px;" text="Iniciar sesión" />
+                     </children>
+                  </HBox>
+                  <HBox prefHeight="100.0" prefWidth="200.0" style="-fx-alignment: center;">
+                     <children>
+                        <Button  mnemonicParsing="false" style="-fx-background-color: transparent; -fx-border-color: transparent;" text="¿No estás registrado? Regístrate." />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </children>
+</FlowPane>
