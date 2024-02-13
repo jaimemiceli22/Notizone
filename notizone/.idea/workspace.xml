@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0136f11b-cc86-455a-840d-e06632a6a9b1" name="Changes" comment="add this">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/notizone/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/notizone/SceneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/noticias.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/notizone/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/notizone/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/notizone/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/notizone/registro.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/registro.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +81,7 @@
       <workItem from="1707735580061" duration="1141000" />
       <workItem from="1707736735367" duration="6771000" />
       <workItem from="1707858854495" duration="151000" />
-      <workItem from="1707859101101" duration="3572000" />
+      <workItem from="1707859101101" duration="3684000" />
     </task>
     <task id="LOCAL-00001" summary="add this">
       <option name="closed" value="true" />
