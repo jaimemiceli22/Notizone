@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.notizone.SceneController">
+
+    <!-- Encabezado -->
+    <top>
+        <VBox alignment="CENTER" style="-fx-background-color: #f0f0f0; -fx-padding: 10px;">
+            <Label style="-fx-font-size: 28px; -fx-padding: 5;" text="Notizone" />
+            <HBox spacing="10">
+                <Button style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-font-size: 14px; -fx-border-radius: 10px;" text="Agregar Noticia" />
+                <Button style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-font-size: 14px; -fx-border-radius: 10px;" text="Filtrar" />
+                <TextField promptText="Buscar..." style="-fx-pref-width: 150px;" />
+            </HBox>
+        </VBox>
+    </top>
+
+    <!-- Contenido -->
+    <center>
+        <VBox style="-fx-background-color: #ffffff; -fx-padding: 10px; -fx-alignment: center;">
+            <Label style="-fx-font-size: 20px; -fx-font-weight: bold; -fx-padding: 10;" text="Noticias" />
+            <GridPane prefHeight="210.0" prefWidth="500.0" style="-fx-border-color: black; -fx-padding: 10px;">
+                <columnConstraints>
+                    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="314.0" minWidth="10.0" prefWidth="116.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="322.00000000000006" minWidth="10.0" prefWidth="322.00000000000006" />
+                </columnConstraints>
+                <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="52.400000000000006" minHeight="10.0" prefHeight="29.400000000000006" vgrow="SOMETIMES" />
+               <RowConstraints maxHeight="47.599999999999994" minHeight="22.599999999999994" prefHeight="45.599999999999994" />
+                </rowConstraints>
+                <!-- Encabezados de columna -->
+                <Label style="-fx-font-weight: bold;" text="Ref" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+                <Label style="-fx-font-weight: bold;" text="Nombre de Alumno" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+                <Label style="-fx-font-weight: bold;" text="Descripción" GridPane.columnIndex="2" GridPane.rowIndex="0" />
+                <!-- Contenido de las noticias -->
+                <Label text="0" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+                <Label text="Adrian" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                <Label text="El alumno Adrian ha sacado sobresalientes" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                <Label text="1" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+                <Label text="Jaime" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                <Label text="El alumno Jaime ha sacado buenas notas" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                <Label text="2" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+                <Label text="Luisa" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                <Label text="Estan ricas las pizzas me dijo" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+            </GridPane>
+        </VBox>
+    </center>
+</BorderPane>
