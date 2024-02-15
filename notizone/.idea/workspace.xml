@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0136f11b-cc86-455a-840d-e06632a6a9b1" name="Changes" comment="add this">
+      <change afterPath="$PROJECT_DIR$/../SpringB/src/main/java/org/example/springb/FormularioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringB/src/main/java/org/example/springb/MongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringB/src/main/resources/templates/formulario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringB/src/main/resources/templates/submit-formulario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/agregar.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/notizone/SceneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/notizone/SceneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/notizone/inicio.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/inicio.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/notizone/noticias.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/noticias.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +56,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;jaime&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jaime/AppData/Local/SceneBuilder/SceneBuilder.exe&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jaime/Documents/Notizone/notizone/src/main/resources/org/example/notizone&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -58,6 +66,10 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jaime\Documents\Notizone\notizone\src\main\resources\org\example\notizone" />
+      <recent name="C:\Users\jaime\Documents\Notizone\notizone\src\main\resources\org\example\notizone\style" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jaime\Documents\Notizone\notizone\src\main\resources\org\example\notizone" />
       <recent name="C:\Users\jaime\Documents\Notizone\notizone\src\main\java\org\example\notizone" />
@@ -65,6 +77,13 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example.notizone" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,6 +101,12 @@
       <workItem from="1707736735367" duration="6771000" />
       <workItem from="1707858854495" duration="151000" />
       <workItem from="1707859101101" duration="3684000" />
+      <workItem from="1707899231861" duration="2287000" />
+      <workItem from="1707906109687" duration="4493000" />
+      <workItem from="1707986867650" duration="420000" />
+      <workItem from="1707987296178" duration="30000" />
+      <workItem from="1707987341243" duration="505000" />
+      <workItem from="1707988130552" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="add this">
       <option name="closed" value="true" />
