@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0136f11b-cc86-455a-840d-e06632a6a9b1" name="Changes" comment="add this">
+      <change afterPath="$PROJECT_DIR$/../SpringB/src/main/java/org/example/springb/FormularioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringB/src/main/java/org/example/springb/MongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringB/src/main/resources/templates/formulario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringB/src/main/resources/templates/submit-formulario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/agregar.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/notizone/SceneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/notizone/SceneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/notizone/inicio.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/inicio.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/notizone/noticias.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/noticias.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cGBv2cvDidQuZLjHh1CgGtywzU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;jaime&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jaime/Documents/Notizone/notizone/src/main/resources/org/example/notizone&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jaime\Documents\Notizone\notizone\src\main\resources\org\example\notizone" />
+      <recent name="C:\Users\jaime\Documents\Notizone\notizone\src\main\resources\org\example\notizone\style" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jaime\Documents\Notizone\notizone\src\main\resources\org\example\notizone" />
+      <recent name="C:\Users\jaime\Documents\Notizone\notizone\src\main\java\org\example\notizone" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.notizone" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0136f11b-cc86-455a-840d-e06632a6a9b1" name="Changes" comment="" />
+      <created>1707728264078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707728264078</updated>
+      <workItem from="1707728265151" duration="2853000" />
+      <workItem from="1707731783332" duration="1287000" />
+      <workItem from="1707733168759" duration="516000" />
+      <workItem from="1707733695199" duration="1871000" />
+      <workItem from="1707735580061" duration="1141000" />
+      <workItem from="1707736735367" duration="6771000" />
+      <workItem from="1707858854495" duration="151000" />
+      <workItem from="1707859101101" duration="3684000" />
+      <workItem from="1707899231861" duration="2287000" />
+      <workItem from="1707906109687" duration="4493000" />
+      <workItem from="1707986867650" duration="420000" />
+      <workItem from="1707987296178" duration="30000" />
+      <workItem from="1707987341243" duration="505000" />
+      <workItem from="1707988130552" duration="956000" />
+    </task>
+    <task id="LOCAL-00001" summary="add this">
+      <option name="closed" value="true" />
+      <created>1707728322013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707728322013</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add this" />
+    <option name="LAST_COMMIT_MESSAGE" value="add this" />
+  </component>
+</project>
