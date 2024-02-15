@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.Button?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.control.ScrollPane?>
-<?import javafx.scene.control.TextField?>
-<?import javafx.scene.layout.AnchorPane?>
-<?import javafx.scene.layout.BorderPane?>
-<?import javafx.scene.layout.HBox?>
-<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
 
-<BorderPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.notizone.SceneController">
+<BorderPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.notizone.SceneController">
 
     <!-- Contenido -->
     <center>
@@ -42,13 +37,17 @@
                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0" />
                  </content>
                </ScrollPane>
-               <HBox prefHeight="100.0" prefWidth="200.0" style="-fx-padding: 5;">
+               <HBox prefHeight="100.0" prefWidth="200.0" style="-fx-padding: 5; -fx-alignment: center;">
                   <children>
-                      <Button onAction="#switchToScene3" style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-font-size: 14px; -fx-border-radius: 10px;" text="Agregar Noticia" />
+                      <ImageView fx:id="imagenView" fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                        <image>
+                           <Image url="@agregar_imagen.png" />
+                        </image></ImageView>
                   </children>
                </HBox>
             </children>
          </VBox>
+          <Button onAction="#switchToScene3" style="-fx-background-color: #4CAF50; -fx-text-fill: white; -fx-font-size: 14px; -fx-border-radius: 10px;" text="Agregar Noticia" />
         </VBox>
     </center>
 </BorderPane>

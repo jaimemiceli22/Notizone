@@ -9,6 +9,7 @@ public class Main extends Application {
 
     @Override
     public void start(Stage stage) {
+
         try {
 
             Parent root = FXMLLoader.load(getClass().getResource("inicio.fxml"));
