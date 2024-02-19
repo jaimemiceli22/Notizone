@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0136f11b-cc86-455a-840d-e06632a6a9b1" name="Changes" comment="add this">
-      <change beforePath="$PROJECT_DIR$/../SpringB/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/src/main/java/org/example/springb/FormularioController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/src/main/java/org/example/springb/MongoDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/src/main/java/org/example/springb/SpringBApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/src/main/resources/templates/formulario.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/src/main/resources/templates/submit-formulario.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringB/src/test/java/org/example/springb/SpringBApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/notizone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/notizone/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/notizone/SceneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/notizone/SceneController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/notizone/agregar.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/agregar.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/notizone/registro.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/notizone/registro.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +100,10 @@
       <workItem from="1707987296178" duration="30000" />
       <workItem from="1707987341243" duration="505000" />
       <workItem from="1707988130552" duration="956000" />
-      <workItem from="1707990102167" duration="8345000" />
+      <workItem from="1707990102167" duration="10326000" />
+      <workItem from="1708079152536" duration="501000" />
+      <workItem from="1708170548495" duration="40000" />
+      <workItem from="1708170998037" duration="2742000" />
     </task>
     <task id="LOCAL-00001" summary="add this">
       <option name="closed" value="true" />
